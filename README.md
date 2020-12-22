@@ -1,2 +1,1 @@
-# Pizza
-Web Project Integration Demo
+# pizza
